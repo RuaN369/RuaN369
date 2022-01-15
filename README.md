@@ -24,9 +24,12 @@
  
 <div> 
   
-  <a href="https://instagram.com/ruanbpeixoto" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:ruanbpeixoto@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/ruan-peixoto-18266a227" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="mailto:ruanbpeixoto@gmail.com" alt="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=leonardodonderi@estudante.ufscar.br" /></a>
+
+  <a href="https://www.linkedin.com/in/ruan-peixoto-18266a227" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/donderileo/" /></a>
+
   <a href="https://github.com/RuaN369" alt="Github">
   <img src="https://img.shields.io/github/followers/RuaN369?style=social"></a>
   
