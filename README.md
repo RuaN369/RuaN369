@@ -23,7 +23,6 @@
   <a href="https://github.com/RuaN369" alt="Github">
   <img src="https://img.shields.io/github/followers/RuaN369?style=social"></a>
   
-  
   ![Snake animation](https://github.com/RuaN369/RuaN369/blob/output/github-contribution-grid-snake.svg)
  
 </div>
