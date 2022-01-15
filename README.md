@@ -10,7 +10,7 @@
   <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right"  alt="pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/821835598582775829/931691457792856114/guts-berserk.gif">
+  <img align="right"  alt="pic" height="130" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/821835598582775829/931691457792856114/guts-berserk.gif">
 </div>
   
   ##
