@@ -17,11 +17,13 @@
   
   ##
  
-<div> 
+<div>
+  <a href="https://www.beecrowd.com.br/judge/pt/profile/611849" alt="beecrowd">
+  <img height="30em" src="https://www.beecrowd.com.br/home/wp-content/uploads/2021/08/beecrowd__roxoHorClean-small-PNG-1.png" /></a>
   <a href="mailto:ruanbpeixoto@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=ruanbpeixoto@gmail.com" /></a>
-  <a href="https://www.linkedin.com/in/ruan-peixoto-18266a227" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ruan-peixoto-18266a227/" /></a>
+  <a href="https://www.linkedin.com/in/ruan-peixoto" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ruan-peixoto/" /></a>
   <a href="https://github.com/RuaN369" alt="Github">
   <img src="https://img.shields.io/github/followers/RuaN369?style=social"></a>
   
