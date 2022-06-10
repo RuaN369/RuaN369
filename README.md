@@ -1,4 +1,4 @@
-<h1> Olá! Eu sou o RuaN <img src="https://i.ibb.co/fDRV4Fb/hi.gif" width="30px"></h1>
+<h1> Olá! Eu sou o RuaN 
 
 <div align="center">
   <a href="https://github.com/RuaN369">
